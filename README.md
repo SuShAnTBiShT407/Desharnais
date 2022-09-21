@@ -1,6 +1,8 @@
 # Desharnais
 ## Stacking (Stacked Generalization)
 
+### Dataset-> china.csv
+
 Stacking is a type of ensemble technique which combines the predictions of two or more models, also called base models, and use the combination as the input for a new model (meta-model) i.e. a new model is trained on the predictions of the base models. 
  
 
